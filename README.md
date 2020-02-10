@@ -6,6 +6,8 @@ tags: []
 
 This project containt the notebooks and python scripts from the work on ThePythonWorkshop from Packt Publishing.
 
+Added a change to commit from Azure Notebook.
+
 Key Features
 
     Ideal for the Python beginner who is getting started for the first time
