@@ -8,6 +8,8 @@ This project containt the notebooks and python scripts from the work on ThePytho
 
 Added a change to commit from Azure Notebook.
 
+Changes done on local machine via VS Code.
+
 Key Features
 
     Ideal for the Python beginner who is getting started for the first time
