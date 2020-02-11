@@ -17,3 +17,6 @@ Key Features
     Structured to let you progress at your own pace, on your own terms
     Use your physical print copy to redeem free access to the online interactive edition
 
+Takeaways from each chapter in the book:
+	1. Chapter 01
+
