@@ -17,6 +17,17 @@ Key Features
     Structured to let you progress at your own pace, on your own terms
     Use your physical print copy to redeem free access to the online interactive edition
 
-Takeaways from each chapter in the book:
-	1. Chapter 01
+Takeaways from each chapter:
+    
+    1. Chapter 01 - Vital Python
+        -> Standard Math operation 
+            => (+, -, *, /, //-> integer division, **-> Exponentiation, %-> Modulo/Remainder)
+            => Order of operations
+            => Number type  -> Integers and Floats
+                            -> Complex number types
+            => variables 
+                -> Assignment
+                -> Reassignment
+                -> Variable names / Python Keywords () 
 
+    2. Chapter 02 -         
