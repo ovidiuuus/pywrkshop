@@ -21,7 +21,7 @@ Takeaways from each chapter:
     
     1. Chapter 01 - Vital Python
         -> Standard Math operation 
-            => (+, -, *, /, //-> integer division, **-> Exponentiation, %-> Modulo/Remainder)
+            => (+, -, *, /, //-> i2nteger division, **-> Exponentiation, %-> Modulo/Remainder)
             => Order of operations
             => Number type  -> Integers and Floats
                             -> Complex number types
@@ -29,5 +29,30 @@ Takeaways from each chapter:
                 -> Assignment
                 -> Reassignment
                 -> Variable names / Python Keywords () 
+        -> Strings => Concatanations, Methods, Input(), Interpolation, Indexig and Slicing
+        -> Boolean => True/False and Conditionals
+        -> Loops
 
-    2. Chapter 02 -         
+    2. Chapter 02 - Python Structures
+        -> List => Power of lists, Matrix operations, List Methods
+        -> Dictionary => Keys and Values, Dictionary Methods
+        -> Tuples => structure def
+        -> Sets => survey of sets
+
+    3. Chapter 03 - Execution Python: Programs, Algorithms and Functions
+        -> Python scripts and Module
+        -> Python Algorithms
+        -> Basic Functions
+        -> Iterative Functions
+        -> Recursive Functions
+        -> Dynamic Functions
+        -> Helper functions - DRY (don't repeate yourself) principle
+        -> Variable scope - namespaces (keywords: "global" and "nonlocal")
+        -> Lambda Functions => function = lambda arguments: single expression
+                            => mapping with lambda functions: map(func, iter)
+                            => filter with lambda functions: filter(func, iter)
+                            => sorted with lamda functions: sorted(iter, key)
+
+    4. Chapter 04 - Extending Python: Files, Errors and Graphs
+        -> Reading files : with statement
+        -> Writing files : 
