@@ -54,5 +54,7 @@ Takeaways from each chapter:
                             => sorted with lamda functions: sorted(iter, key)
 
     4. Chapter 04 - Extending Python: Files, Errors and Graphs
-        -> Reading files : with statement
-        -> Writing files : 
+        -> Reading files => with statement
+        -> Writing files => close files after writing in them
+        -> Assertions => use them as debug tool
+        -> Plotting techniques =>
