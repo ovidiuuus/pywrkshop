@@ -57,4 +57,6 @@ Takeaways from each chapter:
         -> Reading files => with statement
         -> Writing files => close files after writing in them
         -> Assertions => use them as debug tool
-        -> Plotting techniques =>
+        -> Plotting techniques  => matplotlib.pyplot functions
+                                => bar, barh, pie charts
+                                => heatmaps
