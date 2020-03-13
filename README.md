@@ -59,4 +59,8 @@ Takeaways from each chapter:
         -> Assertions => use them as debug tool
         -> Plotting techniques  => matplotlib.pyplot functions
                                 => bar, barh, pie charts
-                                => heatmaps
+                                => heatmaps, density plot, contour plot, 3D plot
+                                => Manipulating the Axis (wrong graph, wrong Context)
+                                
+    5. Chapter 05 - Constructing Python-Classes and Methods
+        -> 
