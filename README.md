@@ -63,4 +63,4 @@ Takeaways from each chapter:
                                 => Manipulating the Axis (wrong graph, wrong Context)
                                 
     5. Chapter 05 - Constructing Python-Classes and Methods
-        -> 
+        -> Classes and Objects
