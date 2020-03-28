@@ -63,4 +63,7 @@ Takeaways from each chapter:
                                 => Manipulating the Axis (wrong graph, wrong Context)
                                 
     5. Chapter 05 - Constructing Python-Classes and Methods
-        -> Classes and Objects
+        -> Classes and Objects  => Instance methods, self
+                                => positional args vs keyword args(kwarg)
+                                => __init__, __str__ methods
+                                => inheritance, subclass
