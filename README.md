@@ -67,3 +67,14 @@ Takeaways from each chapter:
                                 => positional args vs keyword args(kwarg)
                                 => __init__, __str__ methods
                                 => inheritance, subclass
+                                => the Property Decorator
+                                => the setter method
+                                => The DRY principle revisited
+                                => Sub-classing of a defined class in a standard library
+                                => Overriding Methods using super()
+                                => Multiple inheritance
+                                => Method Resolution Order
+                                
+    6. Chapter 06 - The Standard Library
+        -> 
+                                
