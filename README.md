@@ -78,3 +78,5 @@ Takeaways from each chapter:
     6. Chapter 06 - The Standard Library
         -> 
                                 
+________________________________________
+Almost end of the Training session
